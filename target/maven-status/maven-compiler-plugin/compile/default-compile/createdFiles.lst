@@ -1,1 +1,5 @@
+btg/orderms/entity/OrderItem.class
 btg/orderms/OrdermsApplication.class
+btg/orderms/config/MongoConfig.class
+btg/orderms/entity/OrderEntity.class
+btg/orderms/config/RabbitMqConfig.class

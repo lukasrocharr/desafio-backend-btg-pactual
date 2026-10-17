@@ -1,1 +1,5 @@
 /home/ksx/Documents/estudos/desafio-backend-btg-pactual/src/main/java/btg/orderms/OrdermsApplication.java
+/home/ksx/Documents/estudos/desafio-backend-btg-pactual/src/main/java/btg/orderms/config/MongoConfig.java
+/home/ksx/Documents/estudos/desafio-backend-btg-pactual/src/main/java/btg/orderms/config/RabbitMqConfig.java
+/home/ksx/Documents/estudos/desafio-backend-btg-pactual/src/main/java/btg/orderms/entity/OrderEntity.java
+/home/ksx/Documents/estudos/desafio-backend-btg-pactual/src/main/java/btg/orderms/entity/OrderItem.java
